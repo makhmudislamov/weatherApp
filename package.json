@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/makhmudislamov/weatherApp/issues"
   },
-  "homepage": "https://github.com/makhmudislamov/weatherApp#readme"
+  "homepage": "https://github.com/makhmudislamov/weatherApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
