@@ -1,8 +1,8 @@
 require('dotenv').config();
 
 const express = require('express'),
-    bodyparser = require('body-parser'),
-    methodoverride = require('method-override'),
+const bodyparser = require('body-parser'),
+const methodoverride = require('method-override'),
     app = express(),
     port = process.env.PORT || 5000;
 
